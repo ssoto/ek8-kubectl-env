@@ -1,0 +1,4 @@
+#!/usr/bin/env pyhon
+# -*- coding: utf-8 -*-
+
+print("hola soy el comando")

@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kubenv",
-    version="0.0.1",
+    version="0.0.2",
     author="Sergio",
     author_email="scots4ever@gmail.com",
     description="Cool utilies'",
@@ -19,4 +19,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ]
+    scripts=["bin/kubenv"]
 )
