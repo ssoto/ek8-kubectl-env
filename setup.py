@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kubenv",
-    version="0.0.3",
+    version="0.0.4",
     author="Sergio",
     author_email="scots4ever@gmail.com",
     description="Cool utilies'",
