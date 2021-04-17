@@ -1,4 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-print("hola soy el comando")
+from kubenv import change_k8_environment
+
+change_k8_environment.change_paths()
+
