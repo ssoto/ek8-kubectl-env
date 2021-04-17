@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="kube-env",
+    name="kubenv",
     version="0.0.1",
     author="Sergio",
     author_email="scots4ever@gmail.com",
